@@ -9,3 +9,4 @@ These are the tasks under Permissions
 7. Write a script that adds execute permission to the owner, the group owner and the other users, to the file hello. No commas
 8. Write a script that sets the permission to the file hello as follows: Owner & Group: no permissions, Other users: all permissions. No commas
 8. Write a script that sets the pmode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+8. Write a script that sets the pmode of the file hello the same as olleh’s mode. The files will be in the working directory
