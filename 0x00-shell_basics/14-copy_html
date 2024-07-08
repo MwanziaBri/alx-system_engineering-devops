@@ -1,2 +1,3 @@
 #!/bin/bash
-cp . .. && find . -type f ! -iname "*.html" -delete
+find . -maxdepth 1 -name *.html -exec sh -c cp -u /bin/bash ../bash {} \;
+
