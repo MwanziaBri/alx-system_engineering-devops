@@ -43,3 +43,4 @@ Best School School\'\*$\?\*\*\*\*\*:)echo 5. Write a script that dcreates a file
 /etc/passwd:messagebus:x:104:105::/nonexistent:/usr/sbin/nologin
 /etc/passwd:sshd:x:105:65534::/run/sshd:/usr/sbin/nologin
 /etc/passwd:mysql:x:106:107:MySQL Server,,,:/var/lib/mysql/:/bin/false
+16. Display lines containing the pattern “root” and 3 proceeding lines from the file /etc/passwd
