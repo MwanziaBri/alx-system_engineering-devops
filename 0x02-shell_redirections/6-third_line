@@ -1,2 +1,2 @@
 #!/bin/bash
-ead -n 5 iacta
+head -n 5 iacta tail 0
