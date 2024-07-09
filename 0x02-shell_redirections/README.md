@@ -48,3 +48,4 @@ Best School School\'\*$\?\*\*\*\*\*:)echo 5. Write a script that dcreates a file
 18. Display lines starting with a letter from the file /etc/ssh/sshd_config
 19. Replace all characters A and c from input to Z and e respectively.
 20. Remove all c characters c from input.
+21. Write a script that reverse its input.
