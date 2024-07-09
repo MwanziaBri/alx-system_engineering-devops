@@ -1,1 +1,1 @@
-echo "rm -r *.js
+rm -fr **/*.js
