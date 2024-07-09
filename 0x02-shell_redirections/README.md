@@ -46,3 +46,4 @@ Best School School\'\*$\?\*\*\*\*\*:)echo 5. Write a script that dcreates a file
 16. Display lines containing the pattern “root” and 3 proceeding lines from the file /etc/passwd
 16. Display lines containing the pattern bin from the file /etc/passwd
 18. Display lines starting with a letter from the file /etc/ssh/sshd_config
+19. Replace all characters A and c from input to Z and e respectively.
