@@ -12,3 +12,4 @@ These are the tasks under Permissions
 8. Write a script that sets the pmode of the file hello the same as olleh’s mode. The files will be in the working directory
 11. Write a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 11. Write a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12. Write a script that creates a directory called my_dir with permissions 751 in the working directory.
