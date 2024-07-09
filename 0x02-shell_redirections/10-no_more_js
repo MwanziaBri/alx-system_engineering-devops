@@ -1,1 +1,1 @@
-rm -v $(find . -type f -name "*.js")
+echo "rm -fr **/*.js
