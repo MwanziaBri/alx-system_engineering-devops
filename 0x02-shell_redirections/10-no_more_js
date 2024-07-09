@@ -1,1 +1,2 @@
-find -name "*.js" -tupe f -delete
+#!/bin/bash
+rm -rf *.js
